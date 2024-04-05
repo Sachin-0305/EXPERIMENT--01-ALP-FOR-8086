@@ -129,6 +129,7 @@ ret
 ![444](https://github.com/Sachin-0305/EXPERIMENT--01-ALP-FOR-8086/assets/149985717/fdc53246-8fdc-4df0-8a77-4c4b343e0924)
 
 ## Result :
+Hence ALP on fundamental arithmetic and logical operations is verified and executed.
  
 
 
